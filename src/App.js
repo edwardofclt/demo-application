@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is my amazing website
+          This is my amazing website that I deployed with Atomized
         </a>
       </header>
     </div>
