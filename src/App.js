@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to my badass website</h1>
         <h2>I deployed this with Atomized!</h2>
-        <h3>This is ah-maize-ing</h3>
       </header>
     </div>
   )
