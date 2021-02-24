@@ -1,8 +1,8 @@
 /*eslint-disable*/
-import React from "react";
+import React from "react"
 
 // reactstrap components
-import { Container } from "reactstrap";
+import { Container } from "reactstrap"
 
 function DarkFooter() {
   return (
@@ -15,7 +15,7 @@ function DarkFooter() {
                 href="https://www.creative-tim.com?ref=nukr-dark-footer"
                 target="_blank"
               >
-                Creative Tim
+                Creative Eddie
               </a>
             </li>
             <li>
@@ -49,13 +49,13 @@ function DarkFooter() {
             href="https://www.creative-tim.com?ref=nukr-dark-footer"
             target="_blank"
           >
-            Creative Tim
+            Creative Eddie
           </a>
           .
         </div>
       </Container>
     </footer>
-  );
+  )
 }
 
-export default DarkFooter;
+export default DarkFooter
