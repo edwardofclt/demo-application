@@ -1116,10 +1116,10 @@
   resolved "https://registry.npmjs.org/@csstools/normalize.css/-/normalize.css-10.1.0.tgz"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@edwardofclt/test-package@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@edwardofclt/test-package/-/test-package-1.0.1.tgz"
-  integrity sha512-eUdeXOBmT1uTXnoCgLk+pPFsZYG1SFRmSIdaPiHiMB29YmIdPpynSnfAW8kKqLZb/ptVRNH1z0OnhfMQUFxwUA==
+"@edwardofclt/test-package@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@edwardofclt/test-package/-/test-package-1.0.0.tgz#4bcd2d5b6450a6a2b457b48365ccc046c35bd9a0"
+  integrity sha512-nsnTK1S1Qkj0kaVY1S7cUqk7EKjzYlPuz64UPTmlgV47WkMr4mfGSKsqFgWuBGL3/fUPu9CiDv/yjOOnyegqAw==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
