@@ -3,6 +3,10 @@
   "version": "1.4.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
+    "@fortawesome/pro-light-svg-icons": "^5.15.2",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.2",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
     "moment": "2.26.0",
